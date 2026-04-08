@@ -1,0 +1,1 @@
+print("practice quiz 1B")
