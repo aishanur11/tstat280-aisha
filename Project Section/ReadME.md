@@ -25,6 +25,7 @@ Built a machine learning model to predict Tacoma home prices using property char
 
 (Add screenshot here)
 
+
 ## Files
 
 * Tacoma_Housing_Project.ipynb
